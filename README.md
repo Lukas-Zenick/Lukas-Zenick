@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukas-Zenick
 - 👀 I’m interested in Computer Science and Cybersecurity
-- 🌱 I’m currently studying Computer Science at UT Austin
+- 🌱 I’m currently studying Computer Science at The University of Texas at Austin
 - 📫 How to reach me:
   Email: LukasZenick@gmail.com
 
